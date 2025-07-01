@@ -10,7 +10,7 @@
 
 ## inspector
 ```
-npx modelcontextprotocol/inspector uvx liweather
+npx @modelcontextprotocol/inspector uvx liweather
 ```
 
 
